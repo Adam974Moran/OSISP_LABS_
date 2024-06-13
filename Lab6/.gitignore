@@ -1,0 +1,8 @@
+sort_index
+generator
+print_file
+*.bin
+*.pdf
+*.txt
+*.sh
+makefile
