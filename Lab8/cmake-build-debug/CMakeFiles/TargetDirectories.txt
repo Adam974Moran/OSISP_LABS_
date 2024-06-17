@@ -1,0 +1,3 @@
+/home/moledium/CLionProjects/Петруненко В.Е./lab8/cmake-build-debug/CMakeFiles/lab8.dir
+/home/moledium/CLionProjects/Петруненко В.Е./lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/moledium/CLionProjects/Петруненко В.Е./lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
